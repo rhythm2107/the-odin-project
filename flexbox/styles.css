@@ -11,6 +11,10 @@
     display: flex;
     justify-content: center;
   }
+
+  .signup {
+    margin-left: auto;
+  }
   
   .menu {
     width: 900px;
