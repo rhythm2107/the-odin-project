@@ -50,7 +50,6 @@
   .photo-grid-container {
     display: flex;
     justify-content: center;
-    border: 2px solid #000000;
   }
   
   .photo-grid {
